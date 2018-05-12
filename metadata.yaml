@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26658'
     url: http://www.gutenberg.org/2009/agents/26658
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24667#Aether-and-Gravitation
 gutenberg_issued: '2008-02-22'
 gutenberg_type: Text
 identifiers:
