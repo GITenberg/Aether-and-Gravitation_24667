@@ -1,0 +1,31 @@
+_repo: Aether-and-Gravitation_24667
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hooper, William George
+    gutenberg_agent_id: '26658'
+    url: http://www.gutenberg.org/2009/agents/26658
+description: ''
+gutenberg_issued: '2008-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Matter'
+- !lcsh 'Ether (Space)'
+- !lcsh 'Gravitation'
+- !lcsh 'Force and energy'
+tableOfContents: Philosophy of gravitation -- Matter -- Aether -- Energy -- Heat,
+  a mode of motion -- Light, a mode of motion -- Aether and electricity -- Aether
+  and magnetism -- Aether and Newton's laws of motion -- Aether and Kepler's laws
+  -- Aether and comets -- Aether and starry world -- Aether and the universe.
+title: Aether and Gravitation
+url: http://www.gutenberg.org/ebooks/24667
